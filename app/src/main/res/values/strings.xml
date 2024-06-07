@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Want to share knowledge about Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Join Dicoding Story!</string>
+    <string name="title_welcome_page">Welcome to Dicoding Story!</string>
+    <string name="title_signup_page">Complete your details below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Ready to share your story?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Happy sharing on Dicoding Story.</string>
+    <string name="greeting">Hello, %1$s,</string>
+    <string name="logout">Log Out</string>
+    <string name="item_photo_desc">Story Item Photo</string>
+    <string name="story_photo_desc">Story Photo</string>
+    <string name="story">Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="floating_button">Floating Button</string>
+    <string name="image_placeholder">Placeholder Image</string>
+    <string name="empty_image_warning">Image cannot be empty</string>
+    <string name="language">Language</string>
+    <string name="email_error">Invalid email address</string>
+    <string name="password_error">The password must not be less than 8 characters</string>
+    <string name="yeah">Yeah!</string>
+    <string name="account_created">The %1$s account is ready. Come on, log in and share</string>
+    <string name="next">Next</string>
+    <string name="oops">Oops!</string>
+    <string name="error_occured">Error occurred: %1$s</string>
+    <string name="ok">OK</string>
+    <string name="login_success">You have successfully logged in. Can\'t wait to share, huh?</string>
+    <string name="error">Error: %1$s</string>
+    <string name="story_upload_success">You have successfully uploaded your story.</string>
+    <string name="image_login">Image Login</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="map">Map</string>
+    <string name="retry">Try Again</string>
+    <string name="include_location">Include Location</string>
+    <string name="empty_description_warning">Description cannot be empty</string>
+    <string name="register_picture">Register picture</string>
+    <string name="welcome_picture">Welcome picture</string>
+</resources>

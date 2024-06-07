@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi ilmu tentang Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding Story aja!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagi cerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Berbagi di Dicoding Story.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="item_photo_desc">Foto Item Cerita</string>
+    <string name="story_photo_desc">Foto Cerita</string>
+    <string name="story">Cerita</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="floating_button">Tombol Mengambang</string>
+    <string name="image_placeholder">Gambar Pengganti</string>
+    <string name="empty_image_warning">Gambar tidak boleh kosong</string>
+    <string name="language">Bahasa</string>
+    <string name="email_error">Alamat Email tidak sesuai</string>
+    <string name="password_error">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="yeah">Yeah!</string>
+    <string name="account_created">Akun %1$s sudah jadi nih. Yuk, login dan berbagi.</string>
+    <string name="next">Lanjut</string>
+    <string name="oops">Oops!</string>
+    <string name="error_occured">Terjadi kesalahan: %1$s</string>
+    <string name="ok">OK</string>
+    <string name="login_success">Anda berhasil login. Sudah tidak sabar untuk berbagi ya?</string>
+    <string name="error">Kesalahan: %1$s</string>
+    <string name="story_upload_success">Anda berhasil mengunggah cerita.</string>
+    <string name="image_login">Gambar Login</string>
+    <string name="title_activity_maps">Peta</string>
+    <string name="map">Peta</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="include_location">Sertakan Lokasi</string>
+    <string name="empty_description_warning">Deskripsi tidak boleh kosong</string>
+    <string name="register_picture">Gambar daftar</string>
+    <string name="welcome_picture">Gambar Datang</string>
+</resources>

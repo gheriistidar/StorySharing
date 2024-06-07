@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Base.Theme.DicodingStory" parent="Theme.Material3.DayNight">
+
+    </style>
+
+    <style name="Theme.DicodingStory" parent="Base.Theme.DicodingStory" />
+
+</resources>
